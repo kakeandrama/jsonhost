@@ -1,0 +1,58 @@
+[
+  {
+    "number": 1,
+    "status": true,
+    "default_name": "DramaBox",
+    "icon": "ic_dramabox",
+    "fragment" : "DramaBoxFragment",
+    "filename" : "api/dramabox.json"
+  },
+  {
+    "number": 2,
+    "status": true,
+    "default_name": "ReelShort",
+    "icon": "ic_reelshort",
+    "fragment" : "ReelShortFragment",
+    "filename" : "api/reelshort.json"
+  },
+  {
+    "number": 3,
+    "status": true,
+    "default_name": "NetShort",
+    "icon": "ic_netshort",
+    "fragment" : "NetShortFragment",
+    "filename" : "api/netshort.json"
+  },
+  {
+    "number": 4,
+    "status": true,
+    "default_name": "Melolo",
+    "icon": "ic_melolo",
+    "fragment" : "MeloloFragment",
+    "filename" : "api/melolo.json"
+  },
+  {
+    "number": 5,
+    "status": false,
+    "default_name": "ShortMax",
+    "icon": "ic_shortmax",
+    "fragment" : "ShortMaxFragment",
+    "filename" : "api/shortmax.json"
+  },
+  {
+    "number": 6,
+    "status": false,
+    "default_name": "FlickReels",
+    "icon": "ic_flickreels",
+    "fragment" : "FlickReelsFragment",
+    "filename" : "api/flickreels.json"
+  },
+  {
+    "number": 7,
+    "status": false,
+    "default_name": "FreeReels",
+    "icon": "ic_freereels",
+    "fragment" : "FreeReelsFragment",
+    "filename" : "api/freereels.json"
+  }
+]
