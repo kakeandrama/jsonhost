@@ -54,5 +54,13 @@
     "icon": "ic_freereels",
     "fragment" : "FreeReelsFragment",
     "filename" : "api/freereels.json"
+  },
+  {
+    "number": 8,
+    "status": true,
+    "default_name": "Custom Stream",
+    "icon": "ic_stream",
+    "fragment" : "StreamListFragment",
+    "filename" : ""
   }
 ]
