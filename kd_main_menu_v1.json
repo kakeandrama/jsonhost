@@ -41,7 +41,7 @@
   },
   {
     "number": 6,
-    "status": true,
+    "status": false,
     "default_name": "FlickReels",
     "icon": "ic_flickreels",
     "fragment" : "FlickReelsFragment",
