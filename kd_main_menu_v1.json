@@ -58,7 +58,7 @@
   {
     "number": 8,
     "status": true,
-    "default_name": "CustomStream",
+    "default_name": "Custom Stream",
     "icon": "ic_stream",
     "fragment" : "StreamListFragment",
     "filename" : ""
