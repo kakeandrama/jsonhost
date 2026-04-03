@@ -21,7 +21,7 @@
     "number": 3,
     "status": true,
     "default_name": "NetShort",
-    "path_name": "dramabox",
+    "path_name": "netshort",
     "icon": "ic_netshort",
     "fragment" : "SonzaixFragment",
     "filename" : "api/sonzaix.json"
@@ -37,7 +37,7 @@
   },
   {
     "number": 5,
-    "status": true,
+    "status": false,
     "default_name": "ShortMax",
     "path_name": "shortmax",
     "icon": "ic_shortmax",
@@ -55,7 +55,7 @@
   },
   {
     "number": 7,
-    "status": false,
+    "status": true,
     "default_name": "FreeReels",
     "path_name": "freereels",
     "icon": "ic_freereels",
