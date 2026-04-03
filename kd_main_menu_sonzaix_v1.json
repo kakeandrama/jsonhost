@@ -1,0 +1,74 @@
+[
+  {
+    "number": 1,
+    "status": true,
+    "default_name": "DramaBox",
+    "path_name": "dramabox",
+    "icon": "ic_dramabox",
+    "fragment" : "SonzaixFragment",
+    "filename" : "api/sonzaix.json"
+  },
+  {
+    "number": 2,
+    "status": true,
+    "default_name": "ReelShort",
+    "path_name": "reelshort",
+    "icon": "ic_reelshort",
+    "fragment" : "SonzaixFragment",
+    "filename" : "api/sonzaix.json"
+  },
+  {
+    "number": 3,
+    "status": true,
+    "default_name": "NetShort",
+    "path_name": "dramabox",
+    "icon": "ic_netshort",
+    "fragment" : "SonzaixFragment",
+    "filename" : "api/sonzaix.json"
+  },
+  {
+    "number": 4,
+    "status": true,
+    "default_name": "Melolo",
+    "path_name": "melolo",
+    "icon": "ic_melolo",
+    "fragment" : "SonzaixFragment",
+    "filename" : "api/sonzaix.json"
+  },
+  {
+    "number": 5,
+    "status": true,
+    "default_name": "ShortMax",
+    "path_name": "shortmax",
+    "icon": "ic_shortmax",
+    "fragment" : "SonzaixFragment",
+    "filename" : "api/sonzaix.json"
+  },
+  {
+    "number": 6,
+    "status": false,
+    "default_name": "FlickReels",
+    "path_name": "flickreels",
+    "icon": "ic_flickreels",
+    "fragment" : "SonzaixFragment",
+    "filename" : "api/sonzaix.json"
+  },
+  {
+    "number": 7,
+    "status": false,
+    "default_name": "FreeReels",
+    "path_name": "freereels",
+    "icon": "ic_freereels",
+    "fragment" : "SonzaixFragment",
+    "filename" : "api/sonzaix.json"
+  },
+  {
+    "number": 8,
+    "status": true,
+    "default_name": "Stream",
+    "path_name": "custom",
+    "icon": "ic_stream",
+    "fragment" : "StreamListFragment",
+    "filename" : ""
+  }
+]
