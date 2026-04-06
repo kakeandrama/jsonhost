@@ -78,5 +78,55 @@
     "icon": "ic_stream",
     "fragment": "StreamListFragment",
     "filename": ""
+  },
+  {
+    "number": 9,
+    "status": true,
+    "category": 2,
+    "category_name": "Tools",
+    "default_name": "Tiktok Downloader",
+    "icon": "ic_stream",
+    "fragment": "StreamListFragment",
+    "filename": ""
+  },
+  {
+    "number": 10,
+    "status": true,
+    "category": 2,
+    "category_name": "Tools",
+    "default_name": "Facebook Downloader",
+    "icon": "ic_stream",
+    "fragment": "StreamListFragment",
+    "filename": ""
+  },
+  {
+    "number": 11,
+    "status": true,
+    "category": 2,
+    "category_name": "Tools",
+    "default_name": "Instagram Downloader",
+    "icon": "ic_stream",
+    "fragment": "StreamListFragment",
+    "filename": ""
+  },
+  {
+    "number": 12,
+    "status": true,
+    "category": 2,
+    "category_name": "Tools",
+    "default_name": "YT Video Downloader",
+    "icon": "ic_stream",
+    "fragment": "StreamListFragment",
+    "filename": ""
+  },
+  {
+    "number": 13,
+    "status": true,
+    "category": 2,
+    "category_name": "Tools",
+    "default_name": "YT Music Downloader",
+    "icon": "ic_stream",
+    "fragment": "StreamListFragment",
+    "filename": ""
   }
 ]
