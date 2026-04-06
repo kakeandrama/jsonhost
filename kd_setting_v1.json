@@ -7,7 +7,7 @@
     "update_status": false,
     "update_url": "https://",
     "update_message": "Waktunya Update",
-    "ads_status" : true,
+    "ads_status" : false,
     "ads_time" : 5,    
     "ads_url" : [
       "https://s.shopee.co.id/9AKTNYG148",
