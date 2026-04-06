@@ -81,52 +81,52 @@
   },
   {
     "number": 9,
-    "status": true,
+    "status": false,
     "category": 2,
     "category_name": "Tools",
     "default_name": "Tiktok Downloader",
     "icon": "ic_tiktok",
-    "fragment": "StreamListFragment",
+    "fragment": "TiktokFragment",
     "filename": ""
   },
   {
     "number": 10,
-    "status": true,
+    "status": false,
     "category": 2,
     "category_name": "Tools",
     "default_name": "Facebook Downloader",
     "icon": "ic_facebook",
-    "fragment": "StreamListFragment",
+    "fragment": "FacebookFragment",
     "filename": ""
   },
   {
     "number": 11,
-    "status": true,
+    "status": false,
     "category": 2,
     "category_name": "Tools",
     "default_name": "Instagram Downloader",
     "icon": "ic_instagram",
-    "fragment": "StreamListFragment",
+    "fragment": "InstagramFragment",
     "filename": ""
   },
   {
     "number": 12,
-    "status": true,
+    "status": false,
     "category": 2,
     "category_name": "Tools",
     "default_name": "YT Video Downloader",
     "icon": "ic_ytvideo",
-    "fragment": "StreamListFragment",
+    "fragment": "YTVideoFragment",
     "filename": ""
   },
   {
     "number": 13,
-    "status": true,
+    "status": false,
     "category": 2,
     "category_name": "Tools",
     "default_name": "YT Music Downloader",
     "icon": "ic_ytmusic",
-    "fragment": "StreamListFragment",
+    "fragment": "YTMusicFragment",
     "filename": ""
   }
 ]
