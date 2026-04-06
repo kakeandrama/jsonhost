@@ -85,7 +85,7 @@
     "category": 2,
     "category_name": "Tools",
     "default_name": "Tiktok Downloader",
-    "icon": "ic_stream",
+    "icon": "ic_tiktok",
     "fragment": "StreamListFragment",
     "filename": ""
   },
@@ -95,7 +95,7 @@
     "category": 2,
     "category_name": "Tools",
     "default_name": "Facebook Downloader",
-    "icon": "ic_stream",
+    "icon": "ic_facebook",
     "fragment": "StreamListFragment",
     "filename": ""
   },
@@ -105,7 +105,7 @@
     "category": 2,
     "category_name": "Tools",
     "default_name": "Instagram Downloader",
-    "icon": "ic_stream",
+    "icon": "ic_instagram",
     "fragment": "StreamListFragment",
     "filename": ""
   },
@@ -115,7 +115,7 @@
     "category": 2,
     "category_name": "Tools",
     "default_name": "YT Video Downloader",
-    "icon": "ic_stream",
+    "icon": "ic_ytvideo",
     "fragment": "StreamListFragment",
     "filename": ""
   },
@@ -125,7 +125,7 @@
     "category": 2,
     "category_name": "Tools",
     "default_name": "YT Music Downloader",
-    "icon": "ic_stream",
+    "icon": "ic_ytmusic",
     "fragment": "StreamListFragment",
     "filename": ""
   }
