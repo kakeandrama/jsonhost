@@ -1,0 +1,18 @@
+[
+  {
+    "app_version": 1,
+    "app_status": true,
+    "app_name": "Kakean Drama",
+    "app_message": "Teman Gabut Kamu",
+    "update_status": false,
+    "update_url": "https://",
+    "update_message": "Waktunya Update",
+    "ads_status" : true,
+    "ads_time" : 5,    
+    "ads_url" : [
+      "https://url1",
+      "https://url2",
+      "https://url3"
+    ]
+  }
+]
