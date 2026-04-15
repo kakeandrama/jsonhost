@@ -61,7 +61,7 @@
   },
   {
     "number": 7,
-    "status": true,
+    "status": false,
     "category": 1,
     "category_name": "Kultivasi",
     "default_name": "FreeReels",
